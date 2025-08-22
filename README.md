@@ -20,4 +20,9 @@ A clean and responsive frontend webpage showcasing a gallery of my favorite hobb
 - 🔗 Easy navigation with smooth scroll effects  
 - 🌐 Hosted on Netlify for fast and reliable performance
 
+---
+📚 Internship Info
+This project was built as part of the Frontend Web Development Internship at MotionCut, Week 2 – Project 2.
 
+📝 License
+This project is shared for educational purposes. You are free to reuse or adapt the code with credit.
